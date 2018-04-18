@@ -18,4 +18,6 @@ int main(void){
         
         printf("%d:%d:%d\n", h, m, s);
     }
+    
+    return(0);
 }
